@@ -1,1 +1,7 @@
-{"name":"Coollaunch_Pool","ticker":"COOLP","description":"Coollaunch Pool ISPO","homepage":"https://foo.com","nonce":"","extended":""}
+{
+  "name": "Coollaunch_Pool",
+  "ticker": "COOLP",
+  "description": "Coollaunch Pool ISPO",
+  "homepage": "https://foo.com",
+  "nonce": "1647626706"
+}
